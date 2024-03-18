@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "565070854281",
+    "firebase_url": "https://project-map-86c81-default-rtdb.firebaseio.com",
+    "project_id": "project-map-86c81",
+    "storage_bucket": "project-map-86c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565070854281:android:1da65611b7425ad062ee58",
+        "android_client_info": {
+          "package_name": "com.example.data_ins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4o844e73O3hjixwUHyxdSWnRkYHcTfkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565070854281:android:eeefc1c5bd43ff8e62ee58",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4o844e73O3hjixwUHyxdSWnRkYHcTfkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
